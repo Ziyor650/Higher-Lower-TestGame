@@ -1,6 +1,6 @@
 const data = [
-  { item: "City A", value: 500000, image: "https://ziyor650.github.io/Higher-Lower-TestGame/Images/DCPE.png" },
-  { item: "City B", value: 1200000, image: "https://ziyor650.github.io/Higher-Lower-TestGame/Images/DEEE.png" },
+  { item: "City A", value: 500000, image: "Images/DCPE.png" },
+  { item: "City B", value: 1200000, image: "Images/DEEE.png" },
   { item: "City C", value: 750000, image: "images/city-c.png" },
   { item: "City D", value: 250000, image: "images/city-d.png" },
 ];
