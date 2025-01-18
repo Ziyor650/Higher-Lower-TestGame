@@ -1,9 +1,9 @@
 const data = [
-    { item: "City A", value: 500000, image: "images/city-a.jpg" },
-    { item: "City B", value: 1200000, image: "images/city-b.jpg" },
-    { item: "City C", value: 750000, image: "images/city-c.jpg" },
-    { item: "City D", value: 250000, image: "images/city-d.jpg" },
-  ];
+  { item: "City A", value: 500000, image: "images/DCPE.png" },  // Link City A to DCPE.png
+  { item: "City B", value: 1200000, image: "images/DEEE.png" }, // Link City B to DEEE.png
+  { item: "City C", value: 750000, image: "images/city-c.png" },
+  { item: "City D", value: 250000, image: "images/city-d.png" },
+];
   
   let score = 0;
   let currentPair = [];
